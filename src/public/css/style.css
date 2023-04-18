@@ -26,3 +26,17 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+
+  .create-form-user{
+    text-align: center;
+    padding: 15px;
+  }
+
+  .create-form-user label{
+    display: block;
+  }
+
+  .create-form-user .btn-submit{
+    margin-top: 16px;
+    cursor: pointer;
+  }
